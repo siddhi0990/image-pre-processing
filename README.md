@@ -1,4 +1,4 @@
-# image-pre-processing
+# image
 Exp1A
 Exp1B
 Exp1C
