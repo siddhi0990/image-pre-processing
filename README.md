@@ -1,4 +1,9 @@
 # image-pre-processing
-experiment1a:image resize
-exiperiment1b:image rotation
-expriment1c: image translation
+Exp1A
+Exp1B
+Exp1C
+Exp1D
+Exp1E
+Exp1F
+Exp1G
+Exp1H
